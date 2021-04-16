@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayanksonty Mayank Verma
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Node.js, MongoDB
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me mayanksonty@gmail.com
 
